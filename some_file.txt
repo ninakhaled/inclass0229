@@ -1,9 +1,6 @@
 init
 ab
 c
-<<<<<<< HEAD
 d
 error reverting
 
-=======
->>>>>>> parent of dbcbc8c (d)
